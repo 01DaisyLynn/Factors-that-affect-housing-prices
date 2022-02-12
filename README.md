@@ -6,7 +6,7 @@ Study the factors that affect housing prices using the given information on real
 
 # Main Objective #
 
- predict which regression technique will provide best result on the factors affecting housing prices
+ Determine which regression technique will provide best prediction on the factors affecting housing prices
  
 # Setup #
 
